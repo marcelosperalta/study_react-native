@@ -135,6 +135,8 @@ npm start
 @ start C:\github\react-native\DoneWithIt  
 expo start  
 
+< QR code >
+
 Starting project at C:\github\react-native\DoneWithIt  
 Expo DevTools is running at http://localhost:19002  
 Opening DevTools in the browser... (press shift-d to disable)  
