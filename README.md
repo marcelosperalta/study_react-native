@@ -63,7 +63,7 @@ See https://aka.ms/ReactNative for the latest up-to-date instructions.
 
 *folder:* DoneWithIt
 
-0:06:19 Setting up the development environment  
+#### 0:06:19 Setting up the development environment  
 
 *run on Terminal:*  
 
@@ -96,6 +96,8 @@ sudo npm i -g expo-cli
 *Visual Studio Code Setting:*  
 
 File > Preferences > Settings > Search settings "formatonsave" and enable the option "Editor: Format On Save"
+
+#### 0:09:17 Your First React Native App
 
 *run on Terminal:*  
 
