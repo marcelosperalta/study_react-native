@@ -55,5 +55,26 @@ See https://aka.ms/ReactNative for the latest up-to-date instructions.
 ### [Programming with Mosh](https://codewithmosh.com/)
 - [React Native Tutorial for Beginners - Build a React Native App [2020]](https://www.youtube.com/watch?v=0-S5a0eXPoc)
 
+0:06:19 Setting up the development environment  
+
+run on Terminal:
+
+```
+node -v
+```
+
+install [Expo CLI](https://www.npmjs.com/package/expo-cli)
+
+```
+npm i -g expo-cli
+```
+
+or  
+
+```
+sudo npm i -g expo-cli
+```
+
+
 ### [Academind](https://www.academind.com/)
 - [React Native Tutorial for Beginners - Crash Course 2020](https://www.youtube.com/watch?v=qSRrxpdMpVc)
