@@ -10,6 +10,8 @@
 npx react-native init MyTestApp
 ```
 
+*Result:*
+
 Welcome to React Native!  
 Learn once, write anywhere  
 
