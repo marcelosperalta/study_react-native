@@ -4,6 +4,8 @@
 
 ## MyTestApp
 
+*folder:* MyTestApp
+
 ### 1. Run this
 
 ```
@@ -53,9 +55,13 @@ See https://aka.ms/ReactNative for the latest up-to-date instructions.
 
 [Iniciando com React Native em 2019 | Diego Fernandes](https://www.youtube.com/watch?v=XcU9GEUZTQA&list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k)  
 
+*folder:* rocketseat
+
 ### [**Programming with Mosh**](https://codewithmosh.com/)  
 
 [React Native Tutorial for Beginners - Build a React Native App [2020]](https://www.youtube.com/watch?v=0-S5a0eXPoc)
+
+*folder:* DoneWithIt
 
 0:06:19 Setting up the development environment  
 
@@ -79,9 +85,45 @@ sudo npm i -g expo-cli
 
 *Visual Studio Code Extensions:*  
 
-[React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)  
+[React Native Tools (Microsoft)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)  
 
-[React-Native/React/Redux snippets for es6/es7](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux)  
+[React-Native/React/Redux snippets for es6/es7 (EQuimper)](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux)  
+
+[Prettier - Code formatter (Prettier)](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  
+
+[Material Icon Theme (Philipp Kief)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+*Visual Studio Code Setting:*  
+
+File > Preferences > Settings > Search settings "formatonsave" and enable the option "Editor: Format On Save"
+
+*run on Terminal:*  
+
+```
+expo init DoneWithIt
+```
+
+choose "blank" and press "enter"
+
+**Result:*
+
+C:\github\react-native>expo init DoneWithIt
+? Choose a template: expo-template-blank  
+
+� Using npm to install packages. You can pass --yarn to use Yarn instead.  
+
+√ Downloaded and extracted project files.  
+√ Installed JavaScript dependencies.  
+
+✅ Your project is ready!  
+
+To run your project, navigate to the directory and run one of the following npm commands.  
+
+- cd DoneWithIt  
+- npm start # you can open iOS, Android, or web from here, or run them directly with the commands below.  
+- npm run android  
+- npm run ios # requires an iOS device or macOS for access to an iOS simulator  
+- npm run web  
 
 ### [**Academind**](https://www.academind.com/)  
 
