@@ -4,7 +4,7 @@
 
 ## MyTestApp
 
-1. Run this
+### 1. Run this
 
 ```
 npx react-native init MyTestApp
@@ -37,9 +37,10 @@ cd "C:\github\react-native\MyTestApp" && npx react-native run-android
 ```
 
 **Run instructions for Windows and macOS:**  
+
 See https://aka.ms/ReactNative for the latest up-to-date instructions.  
 
-2. Read these
+### 2. Read these
 
 - [Get started](https://reactnative.dev/docs/getting-started)  
 - [Learn basics](https://reactnative.dev/docs/tutorial)  
