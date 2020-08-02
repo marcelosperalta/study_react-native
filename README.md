@@ -49,15 +49,17 @@ See https://aka.ms/ReactNative for the latest up-to-date instructions.
 
 ## Tutorials
 
-### [**Rocketseat**](https://rocketseat.com.br/)
+### [**Rocketseat**](https://rocketseat.com.br/)  
+
 [Iniciando com React Native em 2019 | Diego Fernandes](https://www.youtube.com/watch?v=XcU9GEUZTQA&list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k)  
 
-### [**Programming with Mosh**](https://codewithmosh.com/)
+### [**Programming with Mosh**](https://codewithmosh.com/)  
+
 [React Native Tutorial for Beginners - Build a React Native App [2020]](https://www.youtube.com/watch?v=0-S5a0eXPoc)
 
 0:06:19 Setting up the development environment  
 
-run on Terminal:
+*run on Terminal:*  
 
 ```
 node -v
@@ -75,6 +77,12 @@ or
 sudo npm i -g expo-cli
 ```
 
+*Visual Studio Code Extensions:*  
 
-### [**Academind**](https://www.academind.com/)
-[React Native Tutorial for Beginners - Crash Course 2020](https://www.youtube.com/watch?v=qSRrxpdMpVc)
+[React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)  
+
+[React-Native/React/Redux snippets for es6/es7](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux)  
+
+### [**Academind**](https://www.academind.com/)  
+
+[React Native Tutorial for Beginners - Crash Course 2020](https://www.youtube.com/watch?v=qSRrxpdMpVc)  
