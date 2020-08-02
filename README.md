@@ -132,8 +132,8 @@ npm start
 ```
 *Result:*
 
-> @ start C:\github\react-native\DoneWithIt  
-> expo start  
+@ start C:\github\react-native\DoneWithIt  
+expo start  
 
 Starting project at C:\github\react-native\DoneWithIt  
 Expo DevTools is running at http://localhost:19002  
