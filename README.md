@@ -5,6 +5,7 @@
 ## MyTestApp
 
 1. Run this
+
 ```
 npx react-native init MyTestApp
 ```
@@ -18,16 +19,19 @@ Learn once, write anywhere
 √ Installing dependencies  
 
 **Run instructions for iOS:**  
+
 ```
 cd "C:\github\react-native\MyTestApp" && npx react-native run-ios
 ```
 or  
 
-- Open MyTestApp\ios\MyTestApp.xcodeproj in Xcode or run "xed -b ios"  
-- Hit the Run button  
+Open MyTestApp\ios\MyTestApp.xcodeproj in Xcode or run "xed -b ios"  
+Hit the Run button  
 
 **Run instructions for Android:**  
+
 Have an Android emulator running (quickest way to get started), or a device connected.  
+
 ```
 cd "C:\github\react-native\MyTestApp" && npx react-native run-android
 ```
