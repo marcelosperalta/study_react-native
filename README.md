@@ -155,6 +155,14 @@ exp://192.168.0.11:19000
  Expo  Press ? to show a list of all available commands.  
 Logs for your project will appear below. Press Ctrl+C to exit.  
 
+#### 0:14:38 Running on an iOS simulator
+
+*install [Xcode](https://developer.apple.com/xcode/)*
+
+#### 0:18:02 Running on an Android emulator
+
+*install [android studio](http://developer.android.com/studio)*
+
 ### [**Academind**](https://www.academind.com/)  
 
 [React Native Tutorial for Beginners - Crash Course 2020](https://www.youtube.com/watch?v=qSRrxpdMpVc)  
