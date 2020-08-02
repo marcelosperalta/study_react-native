@@ -49,11 +49,11 @@ See https://aka.ms/ReactNative for the latest up-to-date instructions.
 
 ## Tutorials
 
-### [Rocketseat](https://rocketseat.com.br/)
-- [Iniciando com React Native em 2019 | Diego Fernandes](https://www.youtube.com/watch?v=XcU9GEUZTQA&list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k)  
+### [**Rocketseat**](https://rocketseat.com.br/)
+[Iniciando com React Native em 2019 | Diego Fernandes](https://www.youtube.com/watch?v=XcU9GEUZTQA&list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k)  
 
-### [Programming with Mosh](https://codewithmosh.com/)
-- [React Native Tutorial for Beginners - Build a React Native App [2020]](https://www.youtube.com/watch?v=0-S5a0eXPoc)
+### [**Programming with Mosh**](https://codewithmosh.com/)
+[React Native Tutorial for Beginners - Build a React Native App [2020]](https://www.youtube.com/watch?v=0-S5a0eXPoc)
 
 0:06:19 Setting up the development environment  
 
@@ -76,5 +76,5 @@ sudo npm i -g expo-cli
 ```
 
 
-### [Academind](https://www.academind.com/)
-- [React Native Tutorial for Beginners - Crash Course 2020](https://www.youtube.com/watch?v=qSRrxpdMpVc)
+### [**Academind**](https://www.academind.com/)
+[React Native Tutorial for Beginners - Crash Course 2020](https://www.youtube.com/watch?v=qSRrxpdMpVc)
