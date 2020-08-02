@@ -105,7 +105,7 @@ expo init DoneWithIt
 
 choose "blank" and press "enter"
 
-**Result:*
+*Result:*
 
 C:\github\react-native>expo init DoneWithIt
 ? Choose a template: expo-template-blank  
@@ -124,6 +124,32 @@ To run your project, navigate to the directory and run one of the following npm 
 - npm run android  
 - npm run ios # requires an iOS device or macOS for access to an iOS simulator  
 - npm run web  
+
+*run on Terminal:*  
+
+```
+npm start
+```
+*Result:*
+
+> @ start C:\github\react-native\DoneWithIt  
+> expo start  
+
+Starting project at C:\github\react-native\DoneWithIt  
+Expo DevTools is running at http://localhost:19002  
+Opening DevTools in the browser... (press shift-d to disable)  
+Starting Metro Bundler on port 19001.  
+
+exp://192.168.0.11:19000  
+
+  To run the app with live reloading, choose one of:  
+  • Scan the QR code above with the Expo app (Android) or the Camera app (iOS).  
+  • Press a for Android emulator, or w to run on web.  
+  • Press e to send a link to your phone with email.  
+  • Press s to sign in and enable more options.  
+
+ Expo  Press ? to show a list of all available commands.  
+Logs for your project will appear below. Press Ctrl+C to exit.  
 
 ### [**Academind**](https://www.academind.com/)  
 
